@@ -4,7 +4,7 @@ st.title("Eddy's Resume")
 st.header("Contact Information")
 st.write("Email: eddyirvine02@gmail.com")
 st.write("Phone: (+60) 11-2059-2737")
-st.write("LinkedIn: linkedin.com/in/yourprofile")
+st.write("LinkedIn: https://www.linkedin.com/in/eddy-irvine-711960388")
 
 st.header("Education")
 st.write("BACHELOR OF INFORMATION TECHNOLOGY WITH HONOUR (TRACK IN ARTIFICIAL INTELLIGENCE), Universiti Malaysia Kelantan, 2022/2023")
