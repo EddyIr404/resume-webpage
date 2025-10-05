@@ -25,7 +25,7 @@ skills_data = {
     ],
     "University": [
         "Universiti Malaysia Kelantan (City Campus)"
-    ]
+    ],
     "Batch Year": [
         "2022/2023"
     ]
