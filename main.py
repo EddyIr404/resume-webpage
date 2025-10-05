@@ -28,6 +28,7 @@ skills_data = {
     ]
     "Batch Year": [
         "2022/2023"
+    ]
 }
 
 skills_df = pd.DataFrame(skills_data)
