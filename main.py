@@ -1,4 +1,6 @@
 import streamlit as st
+import pandas as pd
+
 
 st.title("Eddy's Resume")
 st.header("Personal Information")
